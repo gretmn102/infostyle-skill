@@ -10,3 +10,5 @@
 eval/outputs/
 eval/results.tsv
 __pycache__/
+
+/node_modules
